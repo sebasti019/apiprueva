@@ -47,9 +47,6 @@ public class LibroService {
         return libroRepository.contarLibrosPorAnio(0);
     }
 
-    public Libro buscarPorAutor(String Autor){
-        return libroRepository.buscarPorAutor();
-    }
-
-    public
+    
+    
 }
